@@ -1,0 +1,13 @@
+/* Post Detail Page Styles */
+.post {
+    max-width: 600px;
+    margin: auto;
+  
+    &__title {
+      font-size: 2em;
+    }
+  
+    &__content {
+      font-size: 1.2em;
+    }
+  }
